@@ -1,0 +1,33 @@
+# 敏感信息
+state/
+*.secret
+*.key
+*.token
+*.credential
+
+# 临时文件
+*.tmp
+*.bak
+*.backup
+*.swp
+*~
+
+# 操作系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.iml
+.project
+
+# 日志
+*.log
+
+# 备份（排除 config/backup/ 以外的备份）
+config/backup/
+
+# 测试文件
+TEST_*.md

@@ -370,3 +370,4 @@ bash config/setup.sh
 **版本**：v1.0.0
 **维护者**：记忆管理器
 # test hook
+# hook test 2

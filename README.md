@@ -372,3 +372,4 @@ bash config/setup.sh
 # test hook
 # hook test 2
 # hook test 3
+# hook test 4

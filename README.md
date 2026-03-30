@@ -371,3 +371,4 @@ bash config/setup.sh
 **维护者**：记忆管理器
 # test hook
 # hook test 2
+# hook test 3
